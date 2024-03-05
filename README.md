@@ -18,13 +18,13 @@ This repository contains an analysis and visualization of the Citi Bikes dataset
 
 ## Repository Structure:
 
-- New York Citi Bikes.xlsx: Google Sheets file containing the analysis and visualization.
+- `New York Citi Bikes.xlsx`: Google Sheets file containing the analysis and visualization.
 - `README.md`: This file, providing an overview of the analysis and findings.
-- `data/`: Directory containing the original Citi Bikes dataset used for the analysis.
+- `New York Citi Bikes_Raw Data.xlsx`: Directory containing the original Citi Bikes dataset used for the analysis.
 
 ## Usage:
 
-Feel free to explore the analysis in the `analysis_google_sheets.xlsx` file. You can also download the dataset from the `data/` directory and perform your own analysis.
+Feel free to explore the analysis in the `New York Citi Bikes.xlsx` file. You can also download the dataset from the `New York Citi Bikes_Raw Data.xlsx` directory and perform your own analysis.
 
 ## References:
 
